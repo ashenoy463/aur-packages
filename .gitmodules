@@ -1,0 +1,3 @@
+[submodule "xppaut-bin"]
+	path = xppaut-bin
+	url = ssh://aur@aur.archlinux.org/xppaut-bin.git
